@@ -1,0 +1,9 @@
+Package: ru.danpashin.ytfontfix
+Name: YTFontFix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fixing YouTube bugs
+Maintainer: danpashin
+Author: danpashin
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
